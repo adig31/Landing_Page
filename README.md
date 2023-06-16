@@ -1,5 +1,4 @@
-# OIB_Task_1
-Oasis Infobyte
-Web Development and design internship
+# Landing Page
+
 Landing Page
-Made this project using html and css. 
+Made this using html and css. 
